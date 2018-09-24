@@ -9,3 +9,7 @@ Half of the training set and half of the test set were taken from NIST's trainin
 
 https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/_index.ipynb
 
+# Links
+
+[Adam Optimizer](https://smist08.wordpress.com/tag/adam-optimizer/)
+
