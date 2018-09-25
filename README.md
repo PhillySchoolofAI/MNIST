@@ -1,5 +1,5 @@
 # MNIST
-(Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems.
+Modified National Institute of Standards and Technology(MNIST) database is a large database of handwritten digits that is commonly used for training various image processing systems.
 
 The MNIST database contains 60,000 training images and 10,000 testing images. The images are 28×28px.
 
