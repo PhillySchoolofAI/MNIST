@@ -9,7 +9,7 @@ Half of the training set and half of the test set were taken from NIST's trainin
 
 https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/_index.ipynb
 
-## Click the link below for Siraj's demonstration of MNIST logistic regression:
+## Click the link below for Siraj's demonstration of MNIST dataset with logistic regression model:
 
 https://github.com/llSourcell/tensorflow_demo
 
