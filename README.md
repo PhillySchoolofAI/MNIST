@@ -15,7 +15,7 @@ https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tut
 
 https://github.com/llSourcell/tensorflow_demo
 
-# Links
+# Extraneous Links
 
 [Adam Optimizer](https://smist08.wordpress.com/tag/adam-optimizer/)
 
